@@ -1,0 +1,1 @@
+# angular-scope-apply-digest-readme
